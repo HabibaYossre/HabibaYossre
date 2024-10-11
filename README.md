@@ -33,7 +33,7 @@ I’m a **Computer Science student** passionate about **Artificial Intelligence*
 
 ### My GitHub Stats
 
-![Habiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Habiba&show_icons=true&theme=graywhite)
+![Habiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabibaYossre&show_icons=true&theme=radical)
 
 ---
 
