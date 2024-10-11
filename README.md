@@ -47,8 +47,6 @@ I’m a **Computer Science student** passionate about **Artificial Intelligence*
 
 ---
 
-### Languages and Tools:
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
