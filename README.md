@@ -43,7 +43,7 @@ I’m a **Computer Science student** passionate about **Artificial Intelligence*
 
 🌐 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/habiba-yousri/)
 
-💻 **Portfolio**: [My Projects](https://github.com/Habiba?tab=repositories)
+💻 **Portfolio**: [My Projects](https://github.com/HabibaYossre?tab=repositories)
 
 ---
 
